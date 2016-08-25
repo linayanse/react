@@ -1,25 +1,25 @@
 ---
 layout: page
-title: A JavaScript library for building user interfaces
+title: 用于构建用户界面的JavaScript库
 id: home
 ---
 
 <section class="light home-section">
   <div class="marketing-row">
     <div class="marketing-col">
-      <h3>Declarative</h3>
-      <p>React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.</p>
-      <p>Declarative views make your code more predictable and easier to debug.</p>
+      <h3>声明式</h3>
+      <p>使用React轻松地创建用户界面。为每个状态设计不同的视图，当数据更新时React将高效地重绘需要更新的组件。</p>
+      <p>声明式的视图使代码更加容易预见以及便于调试。</p>
     </div>
     <div class="marketing-col">
-      <h3>Component-Based</h3>
-      <p>Build encapsulated components that manage their own state, then compose them to make complex UIs.</p>
-      <p>Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.</p>
+      <h3>基于组件</h3>
+      <p>使用封装自有状态的组件来构成复杂的用户界面。</p>
+      <p>组件不需要模板也不再需要操作DOM,而是直接通过JavaScript来完成数据通信及状态管理。</p>
     </div>
     <div class="marketing-col">
-      <h3>Learn Once, Write Anywhere</h3>
-      <p>We don't make assumptions about the rest of your technology stack, so you can develop new features in React without rewriting existing code.</p>
-      <p>React can also render on the server using Node and power mobile apps using <a href="https://facebook.github.io/react-native/">React Native</a>.</p>
+      <h3>一次学习，到处编写</h3>
+      <p>React并没有假设过你的其余技术栈, 它可以仅仅作为一个小特征在已有项目中使用。</p>
+      <p>React可以由服务端Node.js来渲染，也有可以使用<a href="https://facebook.github.io/react-native/">React Native</a>来创建移动应用。</p>
     </div>
   </div>
 </section>

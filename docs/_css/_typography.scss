@@ -1,11 +1,11 @@
+@charset 'utf-8';
 @import 'variables.scss';
 
 $textColor: $mediumColor;
 $textColorLight: lighten($textColor, 20%);
 
 html {
-  font-family: $helvetica;
-  font-family: proxima-nova, $helvetica;
+  font-family: proxima-nova, $chinese;
   color: $textColor;
   line-height: 1.28;
 }

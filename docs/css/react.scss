@@ -188,7 +188,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   .minitext {
-    font-size: 16px;
+    font-size: 18px;
     text-align: center;
     text-transform: uppercase;
   }
@@ -878,6 +878,7 @@ input#algolia-doc-search {
   height: 30px;
   margin-top: 10px;
   font-size: 16px;
+  font-family: $chinese;
   line-height: 20px;
   background-color: #333;
   border-radius: 4px;
