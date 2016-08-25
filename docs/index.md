@@ -19,7 +19,7 @@ id: home
     <div class="marketing-col">
       <h3>一次学习，到处编写</h3>
       <p>React并没有假设过你的其余技术栈, 它可以仅仅作为一个小特征在已有项目中使用。</p>
-      <p>React可以由服务端Node.js来渲染，也有可以使用<a href="https://facebook.github.io/react-native/">React Native</a>来创建移动应用。</p>
+      <p>React可以由服务端Node.js来渲染，也可以使用<a href="https://facebook.github.io/react-native/">React Native</a>来创建移动应用。</p>
     </div>
   </div>
 </section>
