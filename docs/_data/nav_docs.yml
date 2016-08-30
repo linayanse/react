@@ -1,104 +1,104 @@
-- title: Quick Start
+- title: 快速开始
   items:
-  - id: getting-started
-    title: Getting Started
-  - id: tutorial
-    title: Tutorial
-  - id: thinking-in-react
-    title: Thinking in React
-- title: Community Resources
+  - id: getting-started-zh-CN
+    title: 入门教程
+  - id: tutorial-zh-CN
+    title: 教程
+  - id: thinking-in-react-zh-CN
+    title: React 编程思想
+- title: 社区资源
   items:
-  - id: conferences
-    title: Conferences
-  - id: videos
-    title: Videos
-  - id: complementary-tools
-    title: Complementary Tools
+  - id: conferences-zh-CN
+    title: 会议
+  - id: videos-zh-CN
+    title: 视频
+  - id: complementary-tools-zh-CN
+    title: 补充工具
     href: https://github.com/facebook/react/wiki/Complementary-Tools
-  - id: examples
-    title: Examples
+  - id: examples-zh-CN
+    title: 例子
     href: https://github.com/facebook/react/wiki/Examples
-- title: Guides
+- title: 指南
   items:
-  - id: why-react
-    title: Why React?
-  - id: displaying-data
-    title: Displaying Data
+  - id: why-react-zh-CN
+    title: 为什么使用 React？
+  - id: displaying-data-zh-CN
+    title: 显示数据
     subitems:
-    - id: jsx-in-depth
-      title: JSX in Depth
-    - id: jsx-spread
-      title: JSX Spread Attributes
-    - id: jsx-gotchas
-      title: JSX Gotchas
-  - id: interactivity-and-dynamic-uis
-    title: Interactivity and Dynamic UIs
-  - id: multiple-components
-    title: Multiple Components
-  - id: reusable-components
-    title: Reusable Components
-  - id: transferring-props
-    title: Transferring Props
-  - id: forms
-    title: Forms
-  - id: working-with-the-browser
-    title: Working With the Browser
+    - id: jsx-in-depth-zh-CN
+      title: 深入JSX
+    - id: jsx-spread-zh-CN
+      title: JSX 展开属性
+    - id: jsx-gotchas-zh-CN
+      title: JSX 陷阱
+  - id: interactivity-and-dynamic-uis-zh-CN
+    title: 动态交互式用户界面
+  - id: multiple-components-zh-CN
+    title: 复合组件
+  - id: reusable-components-zh-CN
+    title: 可复用组件
+  - id: transferring-props-zh-CN
+    title: 传递 Props
+  - id: forms-zh-CN
+    title: 表单组件
+  - id: working-with-the-browser-zh-CN
+    title: 与浏览器协作
     subitems:
-    - id: more-about-refs
-      title: Refs to Components
-  - id: tooling-integration
-    title: Tooling Integration
+    - id: more-about-refs-zh-CN
+      title: 对组件的 Refs
+  - id: tooling-integration-zh-CN
+    title: 工具集成
     subitems:
     - id: language-tooling
-      title: Language Tooling
+      title: 语言工具
     - id: package-management
-      title: Package Management
+      title: 包管理
     - id: environments
-      title: Server-side Environments
-  - id: addons
-    title: Add-Ons
+      title: 服务端环境
+  - id: addons-zh-CN
+    title: 插件
     subitems:
-    - id: animation
-      title: Animation
-    - id: two-way-binding-helpers
-      title: Two-Way Binding Helpers
-    - id: test-utils
-      title: Test Utilities
-    - id: clone-with-props
-      title: Cloning Elements
-    - id: create-fragment
+    - id: animation-zh-CN
+      title: 动画
+    - id: two-way-binding-helpers-zh-CN
+      title: 双向绑定辅助工具
+    - id: test-utils-zh-CN
+      title: 测试工具
+    - id: clone-with-props-zh-CN
+      title: 克隆 ReactElements
+    - id: create-fragment-zh-CN
       title: Keyed Fragments
-    - id: update
-      title: Immutability Helpers
-    - id: pure-render-mixin
+    - id: update-zh-CN
+      title: immutability 助手
+    - id: pure-render-mixin-zh-CN
       title: PureRenderMixin
-    - id: perf
-      title: Performance Tools
-    - id: shallow-compare
-      title: Shallow Compare
+    - id: perf-zh-CN
+      title: 性能工具
+    - id: shallow-compare-zh-CN
+      title: 浅比较
   - id: advanced-performance
-    title: Advanced Performance
-  - id: context
+    title: 高级性能
+  - id: context-zh-CN
     title: Context
-- title: Reference
+- title: 参考
   items:
-  - id: top-level-api
-    title: Top-Level API
-  - id: component-api
-    title: Component API
-  - id: component-specs
-    title: Component Specs and Lifecycle
-  - id: tags-and-attributes
-    title: Supported Tags and Attributes
-  - id: events
-    title: Event System
-  - id: dom-differences
-    title: DOM Differences
-  - id: special-non-dom-attributes
-    title: Special Non-DOM Attributes
-  - id: reconciliation
+  - id: top-level-api-zh-CN
+    title: 顶层 API
+  - id: component-api-zh-CN
+    title: 组件 API
+  - id: component-specs-zh-CN
+    title: 组件的规范和生命周期
+  - id: tags-and-attributes-zh-CN
+    title: Tags 和属性
+  - id: events-zh-CN
+    title: 事件系统
+  - id: dom-differences-zh-CN
+    title: DOM 的不同之处
+  - id: special-non-dom-attributes-zh-CN
+    title: 特殊的 Non-DOM Attributes
+  - id: reconciliation-zh-CN
     title: Reconciliation
-  - id: webcomponents
-    title: Web Components
-  - id: glossary
-    title: React (Virtual) DOM Terminology
+  - id: webcomponents-zh-CN
+    title: Web 组件
+  - id: glossary-zh-CN
+    title: React (虚拟) DOM 术语
