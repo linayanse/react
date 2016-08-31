@@ -72,7 +72,7 @@ id: home
 <hr class="home-divider" />
 <section class="home-bottom-section">
   <div class="buttons-unit">
-    <a href="docs/getting-started.html" class="button">开始教程</a>
+    <a href="docs/getting-started-zh-CN.html" class="button">开始教程</a>
     <a href="downloads.html" class="button">下载 React v{{site.react_version}}</a>
   </div>
 </section>
